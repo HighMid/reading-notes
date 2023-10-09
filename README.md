@@ -13,4 +13,8 @@ Here are some reminders for myself that help.**
 
 [Github Profile](https://github.com/HighMid)
 
-Surprised that my username wasn't taken, thats pretty pog
+### Introduction
+
+Hello, my name's DeAndre and this site is just used to practice using markdown.
+
+The link above is my Github Profile that is barebones right now but hopefully will be filled in with things in the future.
