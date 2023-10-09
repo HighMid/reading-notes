@@ -2,7 +2,7 @@
 
 ![Patrick from Spongebob](https://i.kym-cdn.com/entries/icons/original/000/009/803/spongebob-squarepants-patrick-spongebob-patrick-star-background-225039.jpg)
 
-## Growth Mindset (Lab 01b):muscle:
+## Growth Mindset (Lab 01b) &#x1F4AA;
 
 A growth mindset to me is being able to commit yourself to learning. The ability to push through challenges while staying on course is the most important to me.
 Here are some reminders for myself that help.
