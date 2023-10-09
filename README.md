@@ -4,8 +4,8 @@
 
 ## Growth Mindset (Lab 01b) &#x1F4AA;
 
-A growth mindset to me is being able to commit yourself to learning. The ability to push through challenges while staying on course is the most important to me.
-Here are some reminders for myself that help.
+**A growth mindset to me is being able to commit yourself to learning. The ability to push through challenges while staying on course is the most important to me.
+Here are some reminders for myself that help.**
 
   1. "It's ok to suck sometime's you just gotta embrace it, but the important thing is to not stay sucking" - C++ Teacher
   2.  Even when I feel like I learned nothing, I compare myself to how I started and how I got to this point
