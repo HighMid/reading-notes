@@ -18,7 +18,9 @@ It's ugly right now but in time it'll look better.
 The link above is my Github Profile that is barebones right now but hopefully will be filled in with things in the future.
 
 
-## Code 102 Reading Notes
+## Table of Contents
+
+### Code 102 Reading Notes
 [Course 102 Notes](https://github.com/HighMid/reading-notes/tree/main/102-notes)
 
 - [Class01](https://github.com/HighMid/reading-notes/blob/main/102-notes/class-01.md)
@@ -30,7 +32,7 @@ The link above is my Github Profile that is barebones right now but hopefully wi
 - [Class07](https://github.com/HighMid/reading-notes/blob/main/102-notes/class-07.md)
 - [Class08](https://github.com/HighMid/reading-notes/blob/main/102-notes/class-08.md)
 
-## Code 201 Reading Notes
+### Code 201 Reading Notes
 [Course 201 Notes](https://github.com/HighMid/reading-notes/tree/main/201-notes)
 - [Class01](https://github.com/HighMid/reading-notes/blob/main/102-notes/class-01.md)
 - [Class02](https://github.com/HighMid/reading-notes/blob/main/102-notes/class-02.md)

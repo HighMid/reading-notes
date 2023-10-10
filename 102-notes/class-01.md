@@ -32,6 +32,8 @@
 ## Link
 > These notes are located here [Class-01 notes](https://github.com/HighMid/reading-notes/blob/main/102-notes/class-01.md)
 
+- Links are made doing this '[**Insert text description**](**Path to file/link**)'
+
 ## Underordered List
 
 You can make an unordered list by preceding one or more lines of text with `-`, `*`, or `+`.
