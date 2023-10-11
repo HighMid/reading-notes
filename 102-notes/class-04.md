@@ -1,3 +1,19 @@
-# Placeholder File
+## Class 04 Notes
 
-![April Fools Hilde from Counterside](https://www.prydwen.gg/static/21086f03030a10a5a7ca8e162e0c3fbd/5baeb/skin_hilde_april.webp)
+### What is HTML and why do we use it?
+
+- HTML is a markup language used to display information on a webpage.
+It allows users to structure a webpage to present itself or act in a certain way.
+
+### Three parts of an HTML Element
+
+1. **Opening** - Name of element <!-- <div> -->
+2. **Closing** - Closing of element <!-- </div> -->
+3. **Content** - The text/img/gif/etc inside
+
+### Element's with extra information
+
+- These are called attributes, they contain information that gives an element a non-unique identifier. Can be used to target the attribute or other using the same identifier.
+
+### Semantic elements
+
