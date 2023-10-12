@@ -21,19 +21,19 @@ The link above is my Github Profile that is barebones right now but hopefully wi
 ## Table of Contents
 
 ### Code 102 Reading Notes
-[Course 102 Notes](https://HighMid.github.io/reading-notes/102-notes)
 
-- [Class01](https://github.com/HighMid/reading-notes/102-notes/class-01.md)
-- [Class02](https://github.com/HighMid/reading-notes/102-notes/class-02.md)
-- [Class03](https://github.com/HighMid/reading-notes/102-notes/class-03.md)
-- [Class04](https://github.com/HighMid/reading-notes/102-notes/class-04.md)
-- [Class05](https://github.com/HighMid/reading-notes/102-notes/class-05.md)
-- [Class06](https://github.com/HighMid/reading-notes/102-notes/class-06.md)
-- [Class07](https://github.com/HighMid/reading-notes/102-notes/class-07.md)
-- [Class08](https://github.com/HighMid/reading-notes/102-notes/class-08.md)
+
+- [Class01](https://HighMid.github.io/reading-notes/102-notes/class-01.md)
+- [Class02](https://HighMid.github.io/reading-notes/102-notes/class-02.md)
+- [Class03](https://HighMid.github.io/reading-notes/102-notes/class-03.md)
+- [Class04](https://HighMid.github.io/reading-notes/102-notes/class-04.md)
+- [Class05](https://HighMid.github.io/reading-notes/102-notes/class-05.md)
+- [Class06](https://HighMid.github.io/reading-notes/102-notes/class-06.md)
+- [Class07](https://HighMid.github.io/reading-notes/102-notes/class-07.md)
+- [Class08](https://HighMid.github.io/reading-notes/102-notes/class-08.md)
 
 ### Code 201 Reading Notes
-[Course 201 Notes](https://HighMid.github.io/reading-notes/201-notes)
+
 - [Class01](https://HighMid.github.io/reading-notes/201-notes/class-01.md)
 - [Class02](https://HighMid.github.io/reading-notes/201-notes/class-02.md)
 - [Class03](https://HighMid.github.io/reading-notes/201-notes/class-03.md)
