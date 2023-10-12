@@ -15,12 +15,12 @@
 
 - **Headings**
 
-    1. # - Heading 1 (Largest)
-    2. ## - Heading 2 
-    3. ### - Heading 3
-    4. #### - Heading 4
-    5. ##### - Heading 5
-    6. ###### - Heading 6 (Smallest)
+    1. # - Heading 1 "#" (Largest)
+    2. ## - Heading 2 "##"
+    3. ### - Heading 3 "###"
+    4. #### - Heading 4 "####"
+    5. ##### - Heading 5 "#####
+    6. ###### - Heading 6 "######" (Smallest)
 
 - ***Bold & Italicized***
     - Asterisks ('*')
@@ -31,7 +31,7 @@
         2. Bold - __Bold__
 
 ## Link
-> These notes are located here [Class-01 notes](https://github.com/HighMid/reading-notes/blob/main/102-notes/class-01.md)
+> These notes are located here [Class-01 notes](https://highmid.github.io/reading-notes/102-notes/class-01)
 
 - Links are made doing this '[**Insert text description**](**Path to file/link**)'
 
