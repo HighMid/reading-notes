@@ -1,3 +1,6 @@
-# Placeholder File
+## Class 05 Notes
 
-![April Fools Hilde from Counterside](https://www.prydwen.gg/static/21086f03030a10a5a7ca8e162e0c3fbd/5baeb/skin_hilde_april.webp)
+### What is CSS?
+
+- CSS is one of the spouses of markup languages(like HTML) that allows the user to make their page look presentable.  Imagine a mannequin, HTML is the figure while CSS is the clothes on the figure. CSS presents the structure that was made using HTML into a form that is digestable to your target audience.
+
