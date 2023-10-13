@@ -18,7 +18,7 @@
 
 1. **+=** - Adds the value on the right to the variable and assigns it back, (*Like x = x + 2 but written as x += 2*)
 2. **-=** - Subtracts the value on the right from the variable and assigns it back (*Like x = x - 2 but written as x -= 2*)
-3. **\*=** - Multiples the value on the right by the variable on the left and assigns the value back (*Like x = x * 2 but written as  x *= 2**)
+3. **\*=** - Multiples the value on the right by the variable on the left and assigns the value back (*Like x = x \* 2 but written as  x \*= 2*)
 
 ### User Input
 

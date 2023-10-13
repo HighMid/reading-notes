@@ -6,7 +6,7 @@
 
 ### 3 Ways to insert CSS
 
-1. **External CSS** - A seperate file that HTML can reference. Must be referenced inside the <'link'> element inside the head section. 
+1. **External CSS** - A seperate file that HTML can reference. Must be referenced inside the <'link'> element inside the head section.
 
 2. **Internal CSS** - CSS defined in the <'style'> element inside the head section.  Useful for single HTML pages that require a specific style.
 
