@@ -49,3 +49,11 @@ The link above is my Github Profile that is barebones right now but hopefully wi
 - [Class13](https://HighMid.github.io/reading-notes/201-notes/class-13)
 - [Class14](https://HighMid.github.io/reading-notes/201-notes/class-14)
 - [Class15](https://HighMid.github.io/reading-notes/201-notes/class-15)
+
+### Code 301 Reading Notes
+
+- [Placeholder Class](https://HighMid.github.io/reading-notes/301-notes/class-01)
+
+### Code 401 Reading Notes
+
+- [Placeholder Class](https://HighMid.github.io/reading-notes/401-notes/class-01)
