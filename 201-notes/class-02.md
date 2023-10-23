@@ -109,4 +109,4 @@
     3. Inequality (!=)
     4. Strict Inequality (!==)
 
-4. Difference between && and || is && requires both conditions to evaluate to true to equal true while || requires only one condition to equal true.
+4. Difference between && and `||` is && requires both conditions to evaluate to true to equal true while `||` requires only one condition to equal true.
