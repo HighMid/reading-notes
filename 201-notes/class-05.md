@@ -1,6 +1,5 @@
 ## Class 05 Notes
 
-
 ### HTML
 
 1. **What is a real world use case for the alt attribute being used in a website?**
@@ -54,3 +53,4 @@
 
     >- **letter-spacing**: This property controls the space between characters. If you want the characters in your h1 element to have a bit more breathing room, you'd increase the letter-spacing value.
     >- **word-spacing**: This controls the space between words. If the words in your h1 seem too close together, you can adjust this to space them out a bit more.
+ 
