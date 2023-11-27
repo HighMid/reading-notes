@@ -52,7 +52,15 @@ The link above is my Github Profile that is barebones right now but hopefully wi
 
 ### Code 301 Reading Notes
 
-- [Placeholder Class](https://HighMid.github.io/reading-notes/301-notes/class-01)
+- [Class01](https://HighMid.github.io/reading-notes/301-notes/class-01)
+- [Class02](https://HighMid.github.io/reading-notes/301-notes/class-02)
+- [Class03](https://HighMid.github.io/reading-notes/301-notes/class-03)
+- [Class04](https://HighMid.github.io/reading-notes/301-notes/class-04)
+- [Class05](https://HighMid.github.io/reading-notes/301-notes/class-05)
+- [Class06](https://HighMid.github.io/reading-notes/301-notes/class-06)
+- [Class07](https://HighMid.github.io/reading-notes/301-notes/class-07)
+- [Class08](https://HighMid.github.io/reading-notes/301-notes/class-08)
+- [Class09](https://HighMid.github.io/reading-notes/301-notes/class-09)
 
 ### Code 401 Reading Notes
 
