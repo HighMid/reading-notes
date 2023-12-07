@@ -43,6 +43,7 @@
 4. **What do we have to do to make a module available?**
 
     - To make a module available to be used in other files, you need to export the functionalities (functions, objects, classes, etc.) from the module. In Node.js, this is typically done using module.exports or exports.
+    
     ```
     // myModule.js
     const myFunction = () => {
