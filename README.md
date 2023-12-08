@@ -61,6 +61,10 @@ The link above is my Github Profile that is barebones right now but hopefully wi
 - [Class07](https://HighMid.github.io/reading-notes/301-notes/class-07)
 - [Class08](https://HighMid.github.io/reading-notes/301-notes/class-08)
 - [Class09](https://HighMid.github.io/reading-notes/301-notes/class-09)
+- [Class10](https://HighMid.github.io/reading-notes/301-notes/class-10)
+- [Class11](https://HighMid.github.io/reading-notes/301-notes/class-11)
+- [Class12](https://HighMid.github.io/reading-notes/301-notes/class-12)
+- [Class13](https://HighMid.github.io/reading-notes/301-notes/class-13)
 
 ### Code 401 Reading Notes
 
