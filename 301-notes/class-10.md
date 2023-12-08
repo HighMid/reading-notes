@@ -17,6 +17,7 @@
 4. **Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.**
 
     - Here is a function call that invokes other functions,
+    
     ```
     function third() { /*...*/ }
     function second() { third(); }
