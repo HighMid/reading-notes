@@ -70,4 +70,17 @@ The link above is my Github Profile that is barebones right now but hopefully wi
 
 ### Code 401 Reading Notes
 
-- [Placeholder Class](https://HighMid.github.io/reading-notes/401-notes/class-01)
+- [Terminal Practice](https://HighMid.github.io/reading-notes/401-notes/TerminalPractice)
+- [Class01](https://HighMid.github.io/reading-notes/401-notes/class-01)
+- [Class02](https://HighMid.github.io/reading-notes/401-notes/class-02)
+- [Class03](https://HighMid.github.io/reading-notes/401-notes/class-03)
+- [Class04](https://HighMid.github.io/reading-notes/401-notes/class-04)
+- [Class05](https://HighMid.github.io/reading-notes/401-notes/class-05)
+- [Class06](https://HighMid.github.io/reading-notes/401-notes/class-06)
+- [Class07](https://HighMid.github.io/reading-notes/401-notes/class-07)
+- [Class08](https://HighMid.github.io/reading-notes/401-notes/class-08)
+- [Class09](https://HighMid.github.io/reading-notes/401-notes/class-09)
+- [Class10](https://HighMid.github.io/reading-notes/401-notes/class-10)
+- [Class11](https://HighMid.github.io/reading-notes/401-notes/class-11)
+- [Class12](https://HighMid.github.io/reading-notes/401-notes/class-12)
+- [Class13](https://HighMid.github.io/reading-notes/401-notes/class-13)
