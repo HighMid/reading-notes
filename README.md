@@ -71,6 +71,7 @@ The link above is my Github Profile that is barebones right now but hopefully wi
 ### Code 401 Reading Notes
 
 - [Terminal Practice](https://HighMid.github.io/reading-notes/401-notes/TerminalPractice)
+- [Growth Mindset](https://HighMid.github.io/reading-notes/401-notes/GrowthMindset.md)
 - [Class01](https://HighMid.github.io/reading-notes/401-notes/class-01)
 - [Class02](https://HighMid.github.io/reading-notes/401-notes/class-02)
 - [Class03](https://HighMid.github.io/reading-notes/401-notes/class-03)
