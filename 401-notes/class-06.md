@@ -32,6 +32,8 @@
 
 3. **What is test coverage and why is it an important (or potentially misleading) metric in software testing?**
 
+    [Test Coverage](https://martinfowler.com/bliki/TestCoverage.html)
+
     - **Test coverage** is a metric that's used to measure out code that is execute when a test runs. This leads to testing out code that isn't ready for production to help identify critical bugs and could also result in higher code quality. However, this could also be misleading as tests could potentially not be written out to fully test out code and lead people with a false sense of security.
 
 4. **What is Big O notation, and how is it used to describe the performance of an algorithm? Give an example of an everyday task (not software related) that demonstrates O(n) time complexity.**
