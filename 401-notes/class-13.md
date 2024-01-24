@@ -46,4 +46,4 @@
 
     - The purpose of splitting train and test sets is to help the model evaluate new and unseen data. A test set provides data that will access the strengths and weaknesses of a model, while the data would be used to train the model to be able to evaluate the test set.
 
-    - This also helps with overfitting as potentially too much data could result in negative results as details 
+    - This also helps with overfitting as potentially too much data could result in negative results as it increases the chance of catching more noise as opposed to signal. This could also make training a model take an increased amount of time with little reward.
