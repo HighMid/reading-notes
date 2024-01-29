@@ -85,3 +85,5 @@ The link above is my Github Profile that is barebones right now but hopefully wi
 - [Class12](https://HighMid.github.io/reading-notes/401-notes/class-12)
 - [Class13](https://HighMid.github.io/reading-notes/401-notes/class-13)
 - [Class14](https://HighMid.github.io/reading-notes/401-notes/class-14)
+- [Class16](https://HighMid.github.io/reading-notes/401-notes/class-16)
+- [Class17](https://HighMid.github.io/reading-notes/401-notes/class-17)
