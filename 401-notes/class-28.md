@@ -17,7 +17,7 @@
 
     - **Template Inheritance** allows for code to be reused in easily maintained, this defines how the structure should look for most of your website if not all.
 
-        - **Base Template** - This is an HTML file that defines the structure of the website that has `{% block block_name %}, {% endblock %}` used for child templates to override.
+        - **Base Template** - This is an HTML file that defines the structure of the website that has `{block block_name}, { endblock }` used for child templates to override.
 
         - **Child Template** - Inherits the base template and can ovveride blocks with its own content.
 
