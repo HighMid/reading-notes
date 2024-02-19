@@ -93,3 +93,4 @@ The link above is my Github Profile that is barebones right now but hopefully wi
 - [Class27](https://HighMid.github.io/reading-notes/401-notes/class-27)
 - [Class28](https://HighMid.github.io/reading-notes/401-notes/class-28)
 - [Class29](https://HighMid.github.io/reading-notes/401-notes/class-29)
+- [Class31](https://HighMid.github.io/reading-notes/401-notes/class-31)
