@@ -2,7 +2,7 @@
 
 1. **What are the key components and purpose of Django Rest Framework (DRF) permissions, and how do they help in securing an API?**
 
-- **Key Components and Purpose:**
+- [**Key Components and Purpose:**](https://www.django-rest-framework.org/api-guide/permissions/)
 
     - **Permissions in DRF:** DRF permissions determine whether a request should be granted or denied access to certain API functionality. Permissions are used to protect API resources and ensure that only authorized users can perform specific actions, such as creating, updating, or deleting resources.
 
@@ -12,7 +12,7 @@
 
     - **Custom Permissions:** You can define custom permission classes by extending BasePermission and overriding the .has_permission() and/or .has_object_permission() methods to implement custom logic.
 
-- **How DRF Permissions Help in Securing an API:**
+- [**How DRF Permissions Help in Securing an API:**](https://www.django-rest-framework.org/api-guide/permissions/)
 
     - **Access Control:** By specifying who can access what resources and actions, permissions help in implementing access control policies, protecting sensitive data and functionality from unauthorized access.
 
@@ -35,7 +35,9 @@
 
 3. **Can you explain the role of DRF Generic Views and provide examples of their usage in building a RESTful API?**
 
-    - DRF's generic views simplify the task of building API views by providing a set of classes for common CRUD (Create, Read, Update, Delete) operations. These views encapsulate common behavior, reducing the amount of code you need to write for your API.
+    - [DRF's generic views](https://www.django-rest-framework.org/api-guide/generic-views/) simplify the task of building API views by providing a set of classes for common CRUD (Create, Read, Update, Delete) operations. These views encapsulate common behavior, reducing the amount of code you need to write for your API.
+
+    - [Classy Django REST Framework](https://www.cdrf.co)
 
         1. **ListAPIView:** Used for read-only endpoints to represent a collection of model instances. It provides a get method handler.
 
