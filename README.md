@@ -72,6 +72,7 @@ The link above is my Github Profile that is barebones right now but hopefully wi
 
 - [Terminal Practice](https://HighMid.github.io/reading-notes/401-notes/TerminalPractice)
 - [Growth Mindset](https://HighMid.github.io/reading-notes/401-notes/GrowthMindset.md)
+- [Ethics In Tech](https://HighMid.github.io/reading-notes/401-notes/Ethics-In-Tech)
 - [Class01](https://HighMid.github.io/reading-notes/401-notes/class-01)
 - [Class02](https://HighMid.github.io/reading-notes/401-notes/class-02)
 - [Class03](https://HighMid.github.io/reading-notes/401-notes/class-03)
